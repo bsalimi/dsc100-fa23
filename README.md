@@ -84,8 +84,9 @@ Both Midterm and Final exam will be held remote.
 
 **Exam Dates:**
 
-- Midterm Exam: 05/11/2023
-- Final Exam: 06/13/2023
+- Midterm Exam: November 7, 2023
+- Final Exam: December 14, 2023
+
 
 **Extra Credit:**
 
