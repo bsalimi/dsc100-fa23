@@ -38,7 +38,7 @@ Tuesdays and Thursdays at 2:00pm-3:20pm
 
 
 
-**Piazza:** [link](https://bsalimi.github.io/dsc100-fa23/
+**Piazza:** [link](https://piazza.com/ucsd/fall2023/dsc100
 ) (Requires access code posted on Canvas)
 
 **Have questions? Please email Babak Salimi (bsalimi@ucsd.edu) and at least one of the TAs for questions about logistics. All other questions should be discussed on Piazza.**
