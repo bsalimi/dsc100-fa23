@@ -32,11 +32,6 @@ Tuesdays and Thursdays at 2:00pm-3:20pm
 
 **Office Hours:**
 
-Baharan Khatami: Friday 3-4 pm
-
-Aditya Lahiri: Monday 4-5 pm
-
-Babak Salimi: Thursdays 4-5 pm
 
 **Note:** Office hours will be held via Zoom (link can be found on the Canvas calendar). 
 
